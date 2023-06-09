@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VictorChatterji
 - 👀 I’m interested in building software
-- 🌱 I’m currently learning serverless architecture
-- 💞️ I’m looking to collaborate on DevOps
+- 🌱 I’m currently learning intro to algorithms
+- 💞️ I’m looking to collaborate on applied finance technology
 - 📫 How to reach me Email: chatterji.nani@gmail.com
 
 <!---
