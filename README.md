@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VictorChatterji
+- 👋 Hi, I’m @chatterji_n
 - 👀 I’m interested in building software
 - 🌱 I’m currently learning intro to algorithms
 - 💞️ I’m looking to collaborate on applied finance technology
