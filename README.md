@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chatterji_n
-- 👀 I’m interested in building software
-- 🌱 I’m currently learning intro to algorithms
-- 💞️ I’m looking to collaborate on applied finance technology
+- 👀 I’m interested in building Gen-AI Applications
+- 🌱 I’m currently learning Amazon Bedrock, Azure Open AI, Azure Studio and Cloud Computing
+- 💞️ I’m looking to collaborate on use cases which will majorly involves text generation, image processing and cloud computing
 - 📫 How to reach me Email: chatterji.nani@gmail.com
 
 <!---
